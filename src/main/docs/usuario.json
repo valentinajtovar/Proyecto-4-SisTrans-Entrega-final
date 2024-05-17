@@ -1,0 +1,123 @@
+[
+   {
+     "_id": "1",
+     "tipoDocumento": "CC",
+     "numeroDocumento": 123456789,
+     "nombre": "Juan Perez",
+     "direccionFisica": "Calle 123",
+     "direccionDigital": "juanperez@example.com",
+     "telefono": 987654321,
+     "codigoPostal": 54321,
+     "tipoUsuario": "CLIENTE",
+     "nacionalidad": "Colombiano"
+   },
+   {
+     "_id": "2",
+     "tipoDocumento": "CE",
+     "numeroDocumento": 987654321,
+     "nombre": "Maria Rodriguez",
+     "direccionFisica": "Avenida 456",
+     "direccionDigital": "mariarodriguez@example.com",
+     "telefono": 123456789,
+     "codigoPostal": 12345,
+     "tipoUsuario": "CAJERO",
+     "nacionalidad": "Venezolana"
+   },
+   {
+     "_id": "3",
+     "tipoDocumento": "CC",
+     "numeroDocumento": 654321987,
+     "nombre": "Luis Gomez",
+     "direccionFisica": "Carrera 789",
+     "direccionDigital": "luisgomez@example.com",
+     "telefono": 456789123,
+     "codigoPostal": 67890,
+     "tipoUsuario": "GERENTE",
+     "nacionalidad": "Colombiano"
+   },
+   {
+     "_id": "4",
+     "tipoDocumento": "CE",
+     "numeroDocumento": 321654987,
+     "nombre": "Ana Torres",
+     "direccionFisica": "Calle 012",
+     "direccionDigital": "anatorres@example.com",
+     "telefono": 789123456,
+     "codigoPostal": 54321,
+     "tipoUsuario": "CLIENTE",
+     "nacionalidad": "Venezolana"
+   },
+   {
+     "_id": "5",
+     "tipoDocumento": "CC",
+     "numeroDocumento": 456789123,
+     "nombre": "Pedro Sanchez",
+     "direccionFisica": "Avenida 345",
+     "direccionDigital": "pedrosanchez@example.com",
+     "telefono": 321987654,
+     "codigoPostal": 12345,
+     "tipoUsuario": "CAJERO",
+     "nacionalidad": "Colombiano"
+   },
+   {
+     "_id": "6",
+     "tipoDocumento": "CE",
+     "numeroDocumento": 789123456,
+     "nombre": "Laura Ramirez",
+     "direccionFisica": "Carrera 678",
+     "direccionDigital": "lauraramirez@example.com",
+     "telefono": 654321987,
+     "codigoPostal": 67890,
+     "tipoUsuario": "GERENTE",
+     "nacionalidad": "Venezolana"
+   },
+   {
+     "_id": "7",
+     "tipoDocumento": "CC",
+     "numeroDocumento": 234567891,
+     "nombre": "Carlos Lopez",
+     "direccionFisica": "Calle 901",
+     "direccionDigital": "carloslopez@example.com",
+     "telefono": 987654321,
+     "codigoPostal": 54321,
+     "tipoUsuario": "CLIENTE",
+     "nacionalidad": "Colombiano"
+   },
+   {
+     "_id": "8",
+     "tipoDocumento": "CE",
+     "numeroDocumento": 876543219,
+     "nombre": "Sofia Castro",
+     "direccionFisica": "Avenida 234",
+     "direccionDigital": "sofiacastro@example.com",
+     "telefono": 123456789,
+     "codigoPostal": 12345,
+     "tipoUsuario": "CAJERO",
+     "nacionalidad": "Venezolana"
+   },
+   {
+     "_id": "9",
+     "tipoDocumento": "CC",
+     "numeroDocumento": 543219876,
+     "nombre": "Diego Hernandez",
+     "direccionFisica": "Carrera 567",
+     "direccionDigital": "diegohernandez@example.com",
+     "telefono": 456789123,
+     "codigoPostal": 67890,
+     "tipoUsuario": "GERENTE",
+     "nacionalidad": "Colombiano"
+   },
+   {
+     "_id": "10",
+     "tipoDocumento": "CE",
+     "numeroDocumento": 321987654,
+     "nombre": "Carolina Silva",
+     "direccionFisica": "Calle 890",
+     "direccionDigital": "carolinasilva@example.com",
+     "telefono": 789123456,
+     "codigoPostal": 54321,
+     "tipoUsuario": "CLIENTE",
+     "nacionalidad": "Venezolana"
+   }
+ ]
+ 

@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "1",
+    "nombre": "cajero 001",
+    "tipoPuntoAtencion": "PERSONALIZADA",
+    "locacion": "123 Main St",
+    "horarioApertura": "09:00 AM",
+    "horarioCierre": "05:00 PM",
+    "idOficina": "1"
+  },
+  {
+    "_id": "2",
+    "nombre": "web",
+    "tipoPuntoAtencion": "DIGITAL",
+    "horarioApertura": "24/7",
+    "horarioCierre": "24/7"
+  },
+  {
+    "_id": "3",
+    "nombre": "app",
+    "tipoPuntoAtencion": "DIGITAL",
+    "horarioApertura": "24/7",
+    "horarioCierre": "24/7"
+  },
+  {
+    "_id": "4",
+    "nombre": "cajero 002",
+    "tipoPuntoAtencion": "PERSONALIZADA",
+    "locacion": "321 Maple St",
+    "horarioApertura": "09:00 AM",
+    "horarioCierre": "05:00 PM",
+    "idOficina": "1"
+  },
+  {
+    "_id": "5",
+    "nombre": "cajero automatico 01",
+    "tipoPuntoAtencion": "PERSONALIZADA",
+    "locacion": "654 Pine St",
+    "horarioApertura": "09:00 AM",
+    "horarioCierre": "05:00 PM",
+    "idOficina": "2"
+  },
+  {
+    "_id": "6",
+    "nombre": "web",
+    "tipoPuntoAtencion": "DIGITAL",
+    "horarioApertura": "24/7",
+    "horarioCierre": "24/7"
+  },
+  {
+    "_id": "7",
+    "nombre": "Cajero 003",
+    "tipoPuntoAtencion": "PERSONALIZADA",
+    "locacion": "321 Oak St",
+    "horarioApertura": "09:00 AM",
+    "horarioCierre": "05:00 PM",
+    "idOficina": "1"
+  }
+]

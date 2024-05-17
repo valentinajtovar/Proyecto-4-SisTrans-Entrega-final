@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1",
+    "nombre": "Oficina Uno",
+    "direccion": "Calle 123",
+    "numeroPuntosDisponibles": 4,
+    "idGerente": "6"
+  },
+  {
+    "_id": "2",
+    "nombre": "Oficina Dos",
+    "direccion": "Avenida 456",
+    "numeroPuntosDisponibles": 3,
+    "idGerente": "9"
+  },
+  {
+    "_id": "3",
+    "nombre": "Oficina Tres",
+    "direccion": "Plaza 789",
+    "numeroPuntosDisponibles": 2,
+    "idGerente": "3"
+  }
+]

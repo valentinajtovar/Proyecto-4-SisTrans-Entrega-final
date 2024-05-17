@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1",
+    "idUsuario": "1",
+    "tipoCuenta": "AHORROS",
+    "estadoCuenta": "ACTIVO",
+    "fechaUltimaTransaccion": {"$date": "2019-02-16T05:00:00.000Z"},
+    "saldo": 1000.00,
+    "fechaCreacion": {"$date": "2019-02-16T05:00:00.000Z"}
+  }
+  
+  
+  
+  
+  
+]
